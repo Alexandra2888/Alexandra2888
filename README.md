@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Alexandra and I'm an aspiring Frontend Developer <3
-(https://github-readme-stats.vercel.app/api?username=Alexandra2888)](https://github.com/Alexandra2888/github-readme-stats)
+[![Alexandra2888's GitHub stats]((https://github-readme-stats.vercel.app/api?username=Alexandra2888)](https://github.com/Alexandra2888/github-readme-stats)
 
 
 <!--
