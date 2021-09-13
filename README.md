@@ -4,6 +4,9 @@ My name is Alexandra and I'm an aspiring Frontend Developer <3
 <br>
 ![Alexandra2888 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandra2888&show_icons=true&theme=cobalt)
 <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexandra2888a&repo=github-readme-stats)]([![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+)
+
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra2888)](https://github.com/Alexandra2888/Alexandra2888.git)
 
