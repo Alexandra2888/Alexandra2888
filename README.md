@@ -3,6 +3,9 @@ My name is Alexandra and I'm an aspiring Frontend Developer <3
 <br>
 <br>
 ![Alexandra2888 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandra2888&show_icons=true&theme=cobalt)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexandra2888&repo=github-readme-stats)](https://github.com/Alexandra2888/github-readme-stats)
+
 
 <!--
 **Alexandra2888/Alexandra2888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
