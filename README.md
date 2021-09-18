@@ -10,6 +10,8 @@
 ![Alexandra2888 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandra2888&show_icons=true&theme=cobalt)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra2888)](https://github.com/Alexandra2888/Alexandra2888.git)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexandra2888&show_icons=true&locale=en" alt="Alexandra2888" /></p>
+
 
 
 
