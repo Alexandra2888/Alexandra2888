@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandra, an spiring Frontend Dveloper :)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexandra2888t&label=Profile%20views&color=0e75b6&style=flat" alt="Alexandra2888" /> </p>
-- 🔭 I’m currently working on [A lot of projects](https://github.com/Alexandra2888)
+- 🔭 I’m currently working on a lot of projects.
 
 - 🌱 I’m currently learning Reactjs.
 
