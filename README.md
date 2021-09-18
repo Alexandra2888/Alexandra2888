@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Alexandra, an spiring Frontend Dveloper <3</h1>
+<h1 align="center">Hi 👋, I'm Alexandra, an spiring Frontend Dveloper :)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexandra2888t&label=Profile%20views&color=0e75b6&style=flat" alt="Alexandra2888" /> </p>
+- 🔭 I’m currently working on [a lot of projects](https://github.com/Alexandra2888)
+
+- 🌱 I’m currently learning Reactjs.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexandra2888" alt="Alexandra2888" /></a> </p>
 
