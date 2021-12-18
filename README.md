@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a lot of projects.
 
 
-- 🔭 I'm currently learning Nodejs, Python&Django and SQL.
+- 🔭
 
 <!-- 🌱 I’m currently learning Reactjs. -->
 
