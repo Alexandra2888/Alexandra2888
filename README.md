@@ -18,7 +18,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra2888)](https://github.com/Alexandra2888/Alexandra2888.git)
 
+v<h2>Status</h2>
 
+<div align="center">
+  <a href="https://github.com/Alexandra2888">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dreamlancer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamlancer&layout=compact&langs_count=7&theme=dark"/>
+<!--   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=dreamlancer&theme=xcode"/> -->
+   <img alt="dreamlancer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Alexandra2888&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" />
+ 
 
 
 
