@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a lot of projects.
 
 
-- 🔭 I'm currently learning React.js and Node.js.
+- 🔭 I'm currently learning Angular.js and Node.js.
 
 <!-- 🌱 I’m currently learning Reactjs. -->
 
