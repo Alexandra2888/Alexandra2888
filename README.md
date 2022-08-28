@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently learning Angular 14, Ionic 6+ and Node.js.
 
-- 🔭 [Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 <!-- 🌱 I’m currently learning Reactjs. -->
