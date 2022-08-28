@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandra, a Frontend Developer :)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexandra2888t&label=Profile%20views&color=0e75b6&style=flat" alt="Alexandra2888" /> </p>
 
-<p align="left">About me:</p>
+- <p align="left">About me:</p>
 
 - 🔭 I’m currently working on a lot of projects.
 
