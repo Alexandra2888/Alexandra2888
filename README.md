@@ -34,9 +34,9 @@
   <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white" alt="capacitor" width="100" height="60"/>
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="ionic" width="100" height="60"/>
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexandra2888" alt="Alexandra2888" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexandra2888" alt="Alexandra2888" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexandra2888&show_icons=true&locale=en" alt="Alexandra2888" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Alexandra2888&show_icons=true&locale=en" alt="Alexandra2888" /></p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra2888)](https://github.com/Alexandra2888/Alexandra2888.git)
