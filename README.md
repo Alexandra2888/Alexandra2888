@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a lot of projects.
 
-- 🔭 I'm currently learning Angular 14, Ionic 6+ and Node.js.
+- 🔭 I'm currently learning Angular 14 and Node.js with Mongo DB.
 
 
 
