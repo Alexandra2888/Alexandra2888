@@ -19,7 +19,6 @@
 
 
 ![Alexandra2888's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandra2888)
-![image](https://github.com/Alexandra2888/Alexandra2888/assets/76844097/35d08701-fbad-43ea-a443-0d22d22562fc)
 
 
 ## <h1>Languages and Tools<h1>
