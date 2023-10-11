@@ -44,6 +44,8 @@
 <h2>Status</h2>
 
    <img alt="dreamlancer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Alexandra2888&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" />
+
+
  
 [![An image of @alexandra2888's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alexandra2888)](https://holopin.io/@alexandra2888)
 
