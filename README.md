@@ -29,12 +29,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra2888)](https://github.com/Alexandra2888/Alexandra2888.git)
-
-<h2>Status</h2>
-
-   <img alt="dreamlancer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Alexandra2888&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" />
-
 
  <h2>Hacktoberfest</h2>
  
