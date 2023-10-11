@@ -18,7 +18,6 @@
 </p> 
 
 
-![Alexandra2888's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandra2888)
 
 
 ## <h1>Languages and Tools<h1>
