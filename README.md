@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning NextJS.
 - 👯 I’m looking to contribute on open source projects.
-- 💬 Ask me anything about MERN.
+- 💬 Ask me anything about MERN/MEVN.
 - 📫 How to reach me: moldovan.alexandra28@gmail.com
 
 <!-- <div align="center"> -->
