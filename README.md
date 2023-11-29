@@ -29,73 +29,69 @@
  <!--<div align="center"> -->
 
 
- ## :hammer_and_wrench: Skills 
- 
+## :hammer_and_wrench: Skills
+
 <div id="skills" align="center">
-<table align="left">
-<tr>
-  <td>📋 Languages</td>
-  <td>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css&perline=5" />
-    </a>
-  </td>
-<tr/>
-<tr>
-  <td>🗄️ Databases</td>
-   <td>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,mongo,prisma,postman&perline=5" />
-    </a>
-  </td>
-  </tr>
-  <tr>
-    <td> Libraries</td>
-    <td>
-     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,materialui,sass,styledcomponents&perline=5" />   
-    </a>
-  </td>
-  </tr>
-  <tr>
-  <td>📚 Frameworks</td>
-  <td>
-     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,bootstrap,tailwind&perline=5" />   
-    </a>
-  </td>
-  </tr>
-  <tr>
-  <td>:hammer: Tools</td>
-  <td>
-    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,github,netlify,vscode,webpack,babel,jest&perline=5" />
-    </a>
-  </td>
-  </tr>
-  <tr>
-    <td>:art: Design</td>
-    <td>
-      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma&perline=5" />
-      </a>
-    </td>
-</tr>
-</table>
+  <table align="left">
+    <tr>
+      <td>📋 Languages</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,html,css&perline=5" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>🗄️ Databases</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres,mongo,prisma,postman&perline=5" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td> Libraries</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,materialui,sass,styledcomponents&perline=5" />   
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>📚 Frameworks</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,bootstrap,tailwind&perline=5" />   
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>:hammer: Tools</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,netlify,vscode,webpack,babel,jest&perline=5" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>:art: Design</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=figma&perline=5" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-
-
 <br/>
- <h1>📈 Stats ~ </h1>
- 
+
+## 📈 Stats
+
 <p align="center" style="display:flex; flex-col">
-
-<img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=Alexandra2888&show_icons=true&theme=dark#gh-dark-mode-only" /> 
-
-  <img width="48%"  height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=Alexandra2888&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
-</p> 
-
+  <img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=Alexandra2888&show_icons=true&theme=dark#gh-dark-mode-only" /> 
+  <img width="48%" height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=Alexandra2888&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 ## <h2>Hacktoberfest</h2>
  
 [![An image of @alexandra2888's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alexandra2888)](https://holopin.io/@alexandra2888)
