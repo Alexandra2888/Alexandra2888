@@ -28,8 +28,9 @@
 
  <!--<div align="center"> -->
 
-##
- <h1 align="left">:hammer_and_wrench: Skills </h1>
+
+ ## :hammer_and_wrench: Skills 
+ 
 <div id="skills" align="center">
 <table align="left">
 <tr>
