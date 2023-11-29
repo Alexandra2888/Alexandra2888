@@ -87,7 +87,7 @@
 
 ## 📈 Stats ~ 
 
-<p align="center" style="display:flex; flex-row">
+<p align="center" style="display:flex; flex-col">
 
 <img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=Alexandra2888&show_icons=true&theme=dark#gh-dark-mode-only" /> 
 
