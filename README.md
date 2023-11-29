@@ -19,16 +19,14 @@
 	
 
 
-
-
-
-
 <!--<p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,vite,nodejs,html,css,git,mongodb,firebase,js,ts,figma,github,vscode,tailwind,bootstrap&perline=14"/>
   </a>
 </p>
 -->
+
+<br/> 
 
  ## <h1>:hammer_and_wrench: Skills </h1>
 <div id="skills" align="center">
