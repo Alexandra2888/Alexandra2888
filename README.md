@@ -53,7 +53,7 @@
   <td>🗄️ Databases</td>
    <td>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,prisma,postman&perline=5" />
+      <img src="https://skillicons.dev/icons?i=postgres,mongo,prisma,postman&perline=5" />
     </a>
   </td>
   </tr>
