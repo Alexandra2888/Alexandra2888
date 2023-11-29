@@ -26,9 +26,8 @@
 </p>
 -->
 
-<br/> 
-
- ## <h1>:hammer_and_wrench: Skills </h1>
+##
+ <h1>:hammer_and_wrench: Skills </h1>
 <div id="skills" align="center">
 <table align="left">
 <tr>
@@ -83,9 +82,9 @@
 </div>
 
 
-<br/>
 
-## 📈 Stats ~ 
+
+ 📈 Stats ~ 
 
 <p align="center" style="display:flex; flex-col">
 
