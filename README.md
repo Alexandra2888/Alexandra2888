@@ -29,7 +29,7 @@
  <div align="center"> 
 
 ##
- <h1>:hammer_and_wrench: Skills </h1>
+ <h1 align="left">:hammer_and_wrench: Skills </h1>
 <div id="skills" align="center">
 <table align="left">
 <tr>
@@ -86,7 +86,7 @@
 
 
 
-<!-- <h1>📈 Stats ~ </h1>-->
+ <h1>📈 Stats ~ 
  
 <p align="center" style="display:flex; flex-col">
 
