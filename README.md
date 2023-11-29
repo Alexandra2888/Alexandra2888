@@ -6,7 +6,7 @@
 - 💬 Ask me anything about MERN/MEVN.
 - 📫 How to reach me: moldovan.alexandra28@gmail.com
 
- <div align="center"> 
+
 
 ## I specialize in -
 
@@ -25,6 +25,8 @@
   </a>
 </p>
 -->
+
+ <div align="center"> 
 
 ##
  <h1>:hammer_and_wrench: Skills </h1>
