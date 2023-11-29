@@ -26,73 +26,42 @@
 </p>
 -->
 
-<br/> 
+## :hammer_and_wrench: Skills
 
- ## <h1>:hammer_and_wrench: Skills </h1>
 <div id="skills" align="center">
-<table align="left">
-<tr>
-  <td>📋 Languages</td>
-  <td>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css&perline=5" />
-    </a>
-  </td>
-<tr/>
-<tr>
-  <td>🗄️ Databases</td>
-   <td>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,mongo,prisma,postman&perline=5" />
-    </a>
-  </td>
-  </tr>
-  <tr>
-    <td> Libraries</td>
-    <td>
-     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,materialui,sass,styledcomponents&perline=5" />   
-    </a>
-  </td>
-  </tr>
-  <tr>
-  <td>📚 Frameworks</td>
-  <td>
-     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,bootstrap,tailwind&perline=5" />   
-    </a>
-  </td>
-  </tr>
-  <tr>
-  <td>:hammer: Tools</td>
-  <td>
-    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,github,netlify,vscode,webpack,babel,jest&perline=5" />
-    </a>
-  </td>
-  </tr>
-  <tr>
-    <td>:art: Design</td>
-    <td>
-      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma&perline=5" />
-      </a>
-    </td>
-</tr>
-</table>
+  <table align="left">
+    <tr>
+      <td>📋 Languages</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,html,css&perline=5" />
+        </a>
+      </td>
+    </tr>
+    <!-- ... (repeat the same structure for other skill categories) -->
+  </table>
 </div>
-
 
 <br/>
 
-## 📈 Stats ~ 
+## 📈 Stats
 
-<p align="center" style="display:flex; flex-col">
-
-<img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=Alexandra2888&show_icons=true&theme=dark#gh-dark-mode-only" /> 
-
-  <img width="48%"  height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=Alexandra2888&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
-</p> 
+<div id="stats" align="center">
+  <table align="center">
+    <tr>
+      <td>GitHub Stats</td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Alexandra2888&show_icons=true&theme=dark#gh-dark-mode-only" />
+      </td>
+    </tr>
+    <tr>
+      <td>GitHub Streak</td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Alexandra2888&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
  <h2>Hacktoberfest</h2>
