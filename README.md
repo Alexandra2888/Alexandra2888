@@ -26,7 +26,7 @@
 </p>
 -->
 
- <div align="center"> 
+ <!--<div align="center"> -->
 
 ##
  <h1 align="left">:hammer_and_wrench: Skills </h1>
@@ -100,7 +100,7 @@
 [![An image of @alexandra2888's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alexandra2888)](https://holopin.io/@alexandra2888)
 
 
-</div>
+
 
 <!--
 **Alexandra2888/Alexandra2888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
