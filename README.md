@@ -31,8 +31,8 @@
 
 ## :hammer_and_wrench: Skills
 
-<div id="skills" align="center">
-  <table align="left">
+<div id="skills" >
+  <table >
     <tr>
       <td>📋 Languages</td>
       <td>
@@ -88,7 +88,7 @@
 
 ## 📈 Stats
 
-<p align="center" style="display:flex; flex-col">
+<p >
   <img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=Alexandra2888&show_icons=true&theme=dark#gh-dark-mode-only" /> 
   <img width="48%" height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=Alexandra2888&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
