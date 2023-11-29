@@ -30,13 +30,68 @@
 
 
 
-## <h1>Languages and Tools<h1>
-<p align="center">
+
+<!--<p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,vite,nodejs,html,css,git,mongodb,firebase,js,ts,figma,github,vscode,tailwind,bootstrap&perline=14"/>
   </a>
 </p>
+-->
 
+
+<div id="skills" align="center">
+ ## <h1>:hammer_and_wrench: Skills </h1>
+<table align="center">
+<tr>
+  <td>📋 Languages</td>
+  <td>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css&perline=5" />
+    </a>
+  </td>
+<tr/>
+<tr>
+  <td>🗄️ Databases</td>
+   <td>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,prisma,postman&perline=5" />
+    </a>
+  </td>
+  </tr>
+  <tr>
+    <td> Libraries</td>
+    <td>
+     <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,materialui,sass,styledcomponents&perline=5" />   
+    </a>
+  </td>
+  </tr>
+  <tr>
+  <td>📚 Frameworks</td>
+  <td>
+     <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,bootstrap,tailwind&perline=5" />   
+    </a>
+  </td>
+  </tr>
+  <tr>
+  <td>:hammer: Tools</td>
+  <td>
+    <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=git,github,netlify,vscode,webpack,babel,jest&perline=5" />
+    </a>
+  </td>
+  </tr>
+  <tr>
+    <td>:art: Design</td>
+    <td>
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=figma&perline=5" />
+      </a>
+    </td>
+</tr>
+</table>
+</div>
 
 
 
