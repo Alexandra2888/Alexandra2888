@@ -30,7 +30,7 @@
 </p>
 -->
 
- ## <h1>:hammer_and_wrench: Skills </h1>
+ ## <h1 align-left>:hammer_and_wrench: Skills </h1>
 <div id="skills" align="center">
 <table align="center">
 <tr>
