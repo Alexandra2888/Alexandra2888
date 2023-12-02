@@ -53,7 +53,7 @@
       <td> Libraries</td>
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,materialui,sass,styledcomponents&perline=5" />   
+          <img src="https://skillicons.dev/icons?i=react,vue,materialui,sass,styledcomponents&perline=5" />   
         </a>
       </td>
     </tr>
