@@ -92,6 +92,7 @@
   <img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=Alexandra2888&show_icons=true&theme=dark#gh-dark-mode-only" /> 
   <img width="48%" height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=Alexandra2888&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
+
 ## Hacktoberfest
  
 [![An image of @alexandra2888's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alexandra2888)](https://holopin.io/@alexandra2888)
