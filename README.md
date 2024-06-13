@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexandra, a Javascript Developer :)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexandra2888t&label=Profile%20views&color=0e75b6&style=flat" alt="Alexandra2888" /></p>
 
-- 🌱 I’m currently learning NextJS.
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to contribute on open source projects.
-- 💬 Ask me anything about MERN/MEVN.
+- 💬 Ask me anything about MERN/MEVN, Nextjs.
 - 📫 How to reach me: moldovan.alexandra28@gmail.com
 
 
