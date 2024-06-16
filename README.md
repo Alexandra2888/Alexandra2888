@@ -91,8 +91,8 @@
 <p >
   <img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=Alexandra2888&show_icons=true&theme=dark#gh-dark-mode-only" /> 
   <img width="48%" height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=Alexandra2888&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+  ![Top Langs](https://api.githubtrends.io/user/svg/Alexandra2888/langs?time_range=one_year&theme=synthwaves)
 </p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra2888a&layout=compact)
 
 ## Hacktoberfest
  
