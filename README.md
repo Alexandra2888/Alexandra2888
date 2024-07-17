@@ -5,6 +5,8 @@
 - 👯 I’m looking to contribute on open source projects.
 - 💬 Ask me anything about MERN/MEVN, Nextjs.
 - 📫 How to reach me: moldovan.alexandra28@gmail.com
+- Portfolio:
+- Hashnode blog: https://hashnode.com/@Alexandra2888
 
 
 
