@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandra, a Software Developer :)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexandra2888t&label=Profile%20views&color=0e75b6&style=flat" alt="Alexandra2888" /></p>
 
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning Java.
 - 👯 I’m looking to contribute on open source projects.
 - 💬 Ask me anything about MERN/MEVN, Nextjs.
 - 📫 How to reach me: moldovan.alexandra28@gmail.com
@@ -18,7 +18,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<p align="center>- 🌱 I’m currently learning Java</p>	
+
 
 
 <!--<p align="center">
