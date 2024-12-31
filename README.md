@@ -3,7 +3,7 @@
 
 <!-- 🌱 I’m currently learning Java.-->
 - 👯 I’m looking to contribute on open source projects.
-- 💬 Ask me anything about MERN/MEVN, Nextjs.
+- 💬 Ask me anything about MERN, Nextjs.
 - 📫 How to reach me: moldovan.alexandra28@gmail.com
 - Portfolio: https://main--portfolio-alexandram28.netlify.app/
 - Hashnode blog: https://hashnode.com/@Alexandra2888
